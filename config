@@ -1,0 +1,23 @@
+com1 : 01 : 1020 : read
+com1 : 01 : 1021 : read
+com1 : 01 : 1022 : read
+com1 : 03 : 1023 : read
+com1 : 03 : 1024 : read
+com1 : 03 : 1025 : read
+com1 : 03 : 1026 : read
+com1 : 03 : 1027 : read
+com1 : 03 : 1028 : read
+com1 : 03 : 1029 : read
+com1 : 99 : 1030 : read
+
+com2 : 08 : 1020 : read
+com2 : 08 : 1021 : read
+com2 : 08 : 1022 : read
+com2 : 08 : 1023 : read
+com2 : 08 : 1024 : read
+com2 : 08 : 1025 : read
+com2 : 08 : 1026 : read
+com2 : 08 : 1027 : read
+com2 : 08 : 1028 : read
+com2 : 08 : 1029 : read
+com2 : 08 : 1030 : read
